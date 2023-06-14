@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Michael Yang
+I am a Ph.D. student at ... Penguins University
 
 ## Research Interests
 
@@ -13,9 +14,8 @@ I am a Ph.D. student at ...
 
 ## Hobbies
 
-- Guitar
-- Tennis
-- Swimming
+- Sexy Saxophone
+- Hooking Up
 
 ## News
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.

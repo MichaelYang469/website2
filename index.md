@@ -4,7 +4,6 @@ layout: homepage
 
 ## About Me
 
-Michael Yang
 I am a Ph.D. student at ... Penguins University
 
 ## Research Interests
